@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>VScode插件推荐</title>
+      <link href="/posts/25595.html"/>
+      <url>/posts/25595.html</url>
+      
+        <content type="html"><![CDATA[<p>此文章为转载,原文作者为  安知鱼  ,原文地址为<a href="https://blog.anheyu.com/posts/aa50.html">VScode插件推荐(安知鱼)</a></p><p>工欲善其事，必先利其器。</p><p>vscode算是前端的利器了, 也有很大一部分人在使用 WebStorm , 我始终觉得它太大了于是与便弃用了。我相信 vscode 才会是前端开发工具的潮流 😭</p><p><img src="https://img02.anheyu.com/adminuploads/1/2022/09/28/63343c6fddbec.webp"></p><p>在这里推荐几款vscode扩展插件是因为最近问的同学很多，并且给自己做一个记录。</p><h2 id="Chinese-Simplified-简体中文-Language-Pack-for-Visual-Studio-Code"><a href="#Chinese-Simplified-简体中文-Language-Pack-for-Visual-Studio-Code" class="headerlink" title="Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code"></a>Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code</h2><p><img src="https://img02.anheyu.com/adminuploads/1/2022/09/28/63344725caed7.jpg"></p><p>首先第一个推荐的是 Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code , 不得不说这名字是真长。这是一个汉化插件，可以中文化vscode, 不过总归是有汉化的不太好的地方, 比如我的编译器右键时就有一部分未翻译的，不过基本不影响日常使用已经很棒了啦。</p><h2 id="Vue-Volar-extension-Pack"><a href="#Vue-Volar-extension-Pack" class="headerlink" title="Vue Volar extension Pack"></a>Vue Volar extension Pack</h2><p><img src="https://img02.anheyu.com/adminuploads/1/2022/09/28/6334476c880fc.jpg"></p><p>开发 vue 的话可以安装这个扩展包，这个扩展包中包括大多数开发 vue3 中需要的扩展，其中包括格式化代码插件Prettier, 路径引入插件Path Intellisense, 自动引入包插件Auto Import等等, 最重要的Vue Language Features (Volar)也有了, 安装完以后开发 vue 几乎就不用安装其他插件就能应付所有场景了, 可以新建一个文件输入vbase以获取 vue 相关的代码提示模版。</p><h2 id="Bookmarks"><a href="#Bookmarks" class="headerlink" title="Bookmarks"></a>Bookmarks</h2><p><img src="https://img02.anheyu.com/adminuploads/1/2022/09/28/63344743d5f9e.jpg"></p><p>这款插件是书签插件, 在我们查看源码时会发现大量的方法, 函数柯里化的东西, 嵌套大量文件导致我们很难记住每一个方法, 而有了这个插件你就可以快速的插入书签，方便下一次打开这个方法, 快速进入状态。</p><h2 id="Material-Icon-Theme"><a href="#Material-Icon-Theme" class="headerlink" title="Material Icon Theme"></a>Material Icon Theme</h2><p><img src="https://img02.anheyu.com/adminuploads/1/2022/09/28/63344799837f3.jpg"></p><p>这是一款图标插件, 个人比较喜欢这种图标风格, 于是乎便装上了。</p><h2 id="Live-Server"><a href="#Live-Server" class="headerlink" title="Live Server"></a>Live Server</h2><p><img src="https://img02.anheyu.com/adminuploads/1/2022/09/28/6334475e3a36b.jpg"></p><p>这是一款可以在本地快速开启一个服务的插件, 如同它的名字一般。安装以后在你想要启动的文件（一般是 html）右键便会出现Open with Live Server, 点击即可开启一个服务, 可以自行修改其快捷键, 偶尔会出现端口占用情况，需要关闭再重新启动即可。</p><h2 id="Project-Manager"><a href="#Project-Manager" class="headerlink" title="Project Manager"></a>Project Manager</h2><p><img src="https://img02.anheyu.com/adminuploads/1/2022/09/28/633447aee3ea0.jpg"></p><p>这款插件是一个项目管理插件, 可以在你的vscode左侧显示一个文件夹 📁 的图标, 在项目管理器保存你的项目, 日后可以快速的打开该项目文件夹, 在本窗口或者新窗口都可以, 极其方便, 强烈推荐。</p><h2 id="background-cover"><a href="#background-cover" class="headerlink" title="background-cover"></a>background-cover</h2><p><img src="https://img02.anheyu.com/adminuploads/1/2022/09/28/633447d8c3f6f.jpg"></p><p>这是一个修改vscode背景的插件, 使用该插件修改完背景以后使用管理员启动可能会出现 vscode已损坏字样,可以使用Fix VSCode Checksums解决。</p><h2 id="Remote-SSH"><a href="#Remote-SSH" class="headerlink" title="Remote - SSH"></a>Remote - SSH</h2><p><img src="https://img02.anheyu.com/adminuploads/1/2022/09/28/633447cb68922.jpg"></p><p>这是一个快速连接远程服务器的插件, 因为我个人需要便下载了这个插件, 能方便的在本地使用 vscode 修改服务器上的文件</p><p>另外还有许许多多的插件本文未提及, 比如代码提交规范,react,微信小程序,Flutter 等插件, 我相信如果你需要你会找到适合你自己的插件, 也许那时在你的心中 ❤️ 已经有了自己的一套准则, 不必拘泥于编辑器。vscode 甚至有很多的摸鱼插件, 游戏、小说等都有</p><p>另外提一嘴 vscode 的配置问题, 我觉得要调整的大概就是Tab Size, 我个人习惯于 2 个空格的编程规范于是便调整成了2。再一个就是Bracket Pairs 设置为active开启括号提示。Auto Save设置为onFocusChange,在焦点离开窗口时自动保存文件。</p><p>看到这里相信你已经有了自己的答案, 希望大家都能得到一个属于自己的趁手的代码编辑器。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> VScode </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> VScode </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hexo初始配置指南</title>
       <link href="/posts/3857.html"/>
       <url>/posts/3857.html</url>

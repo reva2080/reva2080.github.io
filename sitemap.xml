@@ -2,60 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://reva2080.github.io/manifest.json</loc>
-    
-    <lastmod>2024-04-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://reva2080.github.io/json/manifest.json</loc>
-    
-    <lastmod>2024-04-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://reva2080.github.io/kw/index.html</loc>
-    
-    <lastmod>2024-04-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://reva2080.github.io/link/index.html</loc>
-    
-    <lastmod>2024-04-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://reva2080.github.io/music/index.html</loc>
-    
-    <lastmod>2024-04-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://reva2080.github.io/privacy/index.html</loc>
-    
-    <lastmod>2024-04-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://reva2080.github.io/snzy/index.html</loc>
     
     <lastmod>2024-04-06</lastmod>
@@ -83,43 +29,7 @@
   </url>
   
   <url>
-    <loc>http://reva2080.github.io/posts/9374.html</loc>
-    
-    <lastmod>2024-04-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://reva2080.github.io/posts/63089.html</loc>
-    
-    <lastmod>2024-04-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://reva2080.github.io/posts/3857.html</loc>
-    
-    <lastmod>2024-04-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://reva2080.github.io/posts/2957.html</loc>
-    
-    <lastmod>2024-04-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://reva2080.github.io/posts/7375.html</loc>
     
     <lastmod>2024-04-06</lastmod>
     
@@ -137,7 +47,25 @@
   </url>
   
   <url>
+    <loc>http://reva2080.github.io/posts/25595.html</loc>
+    
+    <lastmod>2024-04-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://reva2080.github.io/posts/9375.html</loc>
+    
+    <lastmod>2024-04-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://reva2080.github.io/posts/63089.html</loc>
     
     <lastmod>2024-04-06</lastmod>
     
@@ -156,6 +84,42 @@
   
   <url>
     <loc>http://reva2080.github.io/posts/22129.html</loc>
+    
+    <lastmod>2024-04-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://reva2080.github.io/posts/9374.html</loc>
+    
+    <lastmod>2024-04-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://reva2080.github.io/posts/7375.html</loc>
+    
+    <lastmod>2024-04-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://reva2080.github.io/posts/2957.html</loc>
+    
+    <lastmod>2024-04-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://reva2080.github.io/manifest.json</loc>
     
     <lastmod>2024-04-06</lastmod>
     
@@ -235,6 +199,51 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>http://reva2080.github.io/json/manifest.json</loc>
+    
+    <lastmod>2024-04-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://reva2080.github.io/kw/index.html</loc>
+    
+    <lastmod>2024-04-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://reva2080.github.io/link/index.html</loc>
+    
+    <lastmod>2024-04-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://reva2080.github.io/music/index.html</loc>
+    
+    <lastmod>2024-04-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://reva2080.github.io/privacy/index.html</loc>
+    
+    <lastmod>2024-04-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>http://reva2080.github.io/</loc>
@@ -245,28 +254,7 @@
 
   
   <url>
-    <loc>http://reva2080.github.io/tags/%E7%94%B5%E5%BD%B1/</loc>
-    <lastmod>2024-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://reva2080.github.io/tags/Anzhiyu/</loc>
-    <lastmod>2024-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://reva2080.github.io/tags/Hexo/</loc>
-    <lastmod>2024-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://reva2080.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2024-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -280,7 +268,35 @@
   </url>
   
   <url>
+    <loc>http://reva2080.github.io/tags/VScode/</loc>
+    <lastmod>2024-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://reva2080.github.io/tags/Anzhiyu/</loc>
+    <lastmod>2024-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://reva2080.github.io/tags/REVA/</loc>
+    <lastmod>2024-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://reva2080.github.io/tags/%E7%94%B5%E5%BD%B1/</loc>
+    <lastmod>2024-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://reva2080.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2024-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -289,28 +305,7 @@
 
   
   <url>
-    <loc>http://reva2080.github.io/categories/%E7%94%B5%E5%BD%B1/</loc>
-    <lastmod>2024-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://reva2080.github.io/categories/Anzhiyu/</loc>
-    <lastmod>2024-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://reva2080.github.io/categories/Hexo/</loc>
-    <lastmod>2024-04-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://reva2080.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2024-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -324,7 +319,35 @@
   </url>
   
   <url>
+    <loc>http://reva2080.github.io/categories/VScode/</loc>
+    <lastmod>2024-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://reva2080.github.io/categories/Anzhiyu/</loc>
+    <lastmod>2024-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://reva2080.github.io/categories/reva/</loc>
+    <lastmod>2024-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://reva2080.github.io/categories/%E7%94%B5%E5%BD%B1/</loc>
+    <lastmod>2024-04-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://reva2080.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2024-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
