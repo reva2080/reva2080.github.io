@@ -4,31 +4,6 @@
   
     
     <entry>
-      <title>Hexo初始配置指南</title>
-      <link href="/posts/3857.html"/>
-      <url>/posts/3857.html</url>
-      
-        <content type="html"><![CDATA[<p>欢迎使用<a href="https://hexo.io/">hexo</a>! 这是一篇基础的使用命令指南。查看<a href="https://hexo.io/docs/">使用手册</a>可以了解更多信息。如果您在使用Hexo时遇到任何问题，可以在[故障排除]中找到答案(<a href="https://hexo.io/docs/troubleshooting.html)%E6%88%96%E8%80%85%E4%BD%A0%E5%8F%AF%E4%BB%A5%E5%9C%A8[GitHub]%E4%B8%8A%E9%97%AE%E6%88%91(https://github.com/hexojs/hexo/issues)">https://hexo.io/docs/troubleshooting.html)或者你可以在[GitHub]上问我(https://github.com/hexojs/hexo/issues)</a>.</p><h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="创建一篇新的文章"><a href="#创建一篇新的文章" class="headerlink" title="创建一篇新的文章"></a>创建一篇新的文章</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;你的文章标题&quot;</span></span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/writing.html">创建文章</a></p><h3 id="在本地运行"><a href="#在本地运行" class="headerlink" title="在本地运行"></a>在本地运行</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo s</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/server.html">运行</a></p><h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo g</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/generating.html">生成</a></p><h3 id="部署到互联网"><a href="#部署到互联网" class="headerlink" title="部署到互联网"></a>部署到互联网</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo d</span><br></pre></td></tr></table></figure><p>更多信息： <a href="https://hexo.io/docs/one-command-deployment.html">部署</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Hexo </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Hexo </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hexo博客编辑使用工具推荐</title>
       <link href="/posts/16227.html"/>
       <url>/posts/16227.html</url>
@@ -54,23 +29,73 @@
     
     
     <entry>
-      <title>Butterfly主题魔改视频</title>
-      <link href="/posts/31274.html"/>
-      <url>/posts/31274.html</url>
+      <title>Hexo初始配置指南</title>
+      <link href="/posts/3857.html"/>
+      <url>/posts/3857.html</url>
       
-        <content type="html"><![CDATA[<p>hello,大家好,我是REVA,今天给大家带来的是来自安知鱼的Butterfly主题魔改教程。</p><div align="center" class="aspect-ratio">  <iframe    src="https://player.bilibili.com/player.html?aid=556933559&&page=1&as_wide=1&high_quality=1&danmaku=0"    scrolling="yes"    border="0"    frameborder="yes"    framespacing="0"    high_quality="1"    danmaku="1"    allowfullscreen="true"  ></iframe></div>]]></content>
+        <content type="html"><![CDATA[<p>欢迎使用<a href="https://hexo.io/">hexo</a>! 这是一篇基础的使用命令指南。查看<a href="https://hexo.io/docs/">使用手册</a>可以了解更多信息。如果您在使用Hexo时遇到任何问题，可以在[故障排除]中找到答案(<a href="https://hexo.io/docs/troubleshooting.html)%E6%88%96%E8%80%85%E4%BD%A0%E5%8F%AF%E4%BB%A5%E5%9C%A8[GitHub]%E4%B8%8A%E9%97%AE%E6%88%91(https://github.com/hexojs/hexo/issues)">https://hexo.io/docs/troubleshooting.html)或者你可以在[GitHub]上问我(https://github.com/hexojs/hexo/issues)</a>.</p><h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="创建一篇新的文章"><a href="#创建一篇新的文章" class="headerlink" title="创建一篇新的文章"></a>创建一篇新的文章</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;你的文章标题&quot;</span></span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/writing.html">创建文章</a></p><h3 id="在本地运行"><a href="#在本地运行" class="headerlink" title="在本地运行"></a>在本地运行</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo s</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/server.html">运行</a></p><h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo g</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/generating.html">生成</a></p><h3 id="部署到互联网"><a href="#部署到互联网" class="headerlink" title="部署到互联网"></a>部署到互联网</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo d</span><br></pre></td></tr></table></figure><p>更多信息： <a href="https://hexo.io/docs/one-command-deployment.html">部署</a></p>]]></content>
       
       
       <categories>
           
-          <category> Anzhiyu </category>
+          <category> Hexo </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> Anzhiyu </tag>
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>这样的B站 你爱了吗</title>
+      <link href="/posts/4458.html"/>
+      <url>/posts/4458.html</url>
+      
+        <content type="html"><![CDATA[<p>重所周知，B站网页版的这个界面已经很久没有更新了，看久了也觉得无聊了。</p><p><img src="https://s1.vika.cn/space/2024/04/13/08dcdf53a47445f7a4b10fa50096c491"></p><p>而在今天，我为大家推荐一款由Hakadao开发的浏览器插件:BewlyBewly。</p><p><img src="https://s1.vika.cn/space/2024/04/13/9c39e65998c24571b52eadb0c70794d8"></p><p>这个插件重构了网页版的B站，改的十分好看。和原版的B站新版变得更加简洁。这么好的插件，作者也是开源了。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Bilibili </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Bilibili </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Butterfly主题魔改视频</title>
+      <link href="/posts/31274.html"/>
+      <url>/posts/31274.html</url>
+      
+        <content type="html"><![CDATA[<p>hello,大家好,我是REVA,今天给大家带来的是来自安知鱼的Butterfly主题魔改教程。</p><div align="center" class="aspect-ratio">  <iframe    src="https://player.bilibili.com/player.html?aid=556933559&&page=1&as_wide=1&high_quality=1&danmaku=0"    scrolling="yes"    border="0"    frameborder="yes"    framespacing="0"    high_quality="1"    danmaku="1"    allowfullscreen="true"  ></iframe></div><div align="center" class="aspect-ratio">  <iframe    src="https://player.bilibili.com/player.html?aid=771975916&&page=1&as_wide=1&high_quality=1&danmaku=0"    scrolling="yes"    border="0"    frameborder="yes"    framespacing="0"    high_quality="1"    danmaku="1"    allowfullscreen="true"  ></iframe></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> Bilibili </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Bilibili </tag>
             
         </tags>
       
