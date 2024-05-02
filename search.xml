@@ -4,25 +4,13 @@
   
     
     <entry>
-      <title>Hexo博客编辑使用工具推荐</title>
-      <link href="/posts/16227.html"/>
-      <url>/posts/16227.html</url>
+      <title>博客断更通知</title>
+      <link href="/posts/47797.html"/>
+      <url>/posts/47797.html</url>
       
-        <content type="html"><![CDATA[<p>我们在编辑或使用hexo时,往往需要输入命令或编辑文件。对于轻量编辑时各个系统自带的命令提示符和文本编辑器是完全够用。但当我们需要编辑大量的文件时,系统自带的工具往往会使我们的工作效率大大折扣。今天,我来给大家推荐两款工具，每一款都干货十足。</p><h2 id="VScode"><a href="#VScode" class="headerlink" title="VScode"></a>VScode</h2><p>VScode,全称Visual Studio Code。官网<a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a><br>VScode是一款代码编辑器支持多种编程语言,还自带终端,还能装许多插件，提高效率，并且完全免费。</p><h2 id="Typora"><a href="#Typora" class="headerlink" title="Typora"></a>Typora</h2><p>Typora,官网<a href="https://www.typoraio.cn/">https://www.typoraio.cn/</a><br>Typora是一款markdown文本编辑器,十分简洁美观,还能安装别的大神魔改的Typora主题,缺点就是要89元,但是现在B站上有很多破解方法，可以自行上网搜索。</p><p>不说了，吃烧烤去了。</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 使用工具 </category>
-          
-      </categories>
+        <content type="html"><![CDATA[<p>博客通知，由于毕业考将至，博客断更三个月，请理解为你带来的不便。</p>]]></content>
       
       
-        <tags>
-            
-            <tag> 实用工具 </tag>
-            
-        </tags>
       
     </entry>
     
@@ -46,6 +34,31 @@
         <tags>
             
             <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hexo博客编辑使用工具推荐</title>
+      <link href="/posts/16227.html"/>
+      <url>/posts/16227.html</url>
+      
+        <content type="html"><![CDATA[<p>我们在编辑或使用hexo时,往往需要输入命令或编辑文件。对于轻量编辑时各个系统自带的命令提示符和文本编辑器是完全够用。但当我们需要编辑大量的文件时,系统自带的工具往往会使我们的工作效率大大折扣。今天,我来给大家推荐两款工具，每一款都干货十足。</p><h2 id="VScode"><a href="#VScode" class="headerlink" title="VScode"></a>VScode</h2><p>VScode,全称Visual Studio Code。官网<a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a><br>VScode是一款代码编辑器支持多种编程语言,还自带终端,还能装许多插件，提高效率，并且完全免费。</p><h2 id="Typora"><a href="#Typora" class="headerlink" title="Typora"></a>Typora</h2><p>Typora,官网<a href="https://www.typoraio.cn/">https://www.typoraio.cn/</a><br>Typora是一款markdown文本编辑器,十分简洁美观,还能安装别的大神魔改的Typora主题,缺点就是要89元,但是现在B站上有很多破解方法，可以自行上网搜索。</p><p>不说了，吃烧烤去了。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 使用工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 实用工具 </tag>
             
         </tags>
       
